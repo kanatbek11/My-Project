@@ -1,0 +1,25 @@
+table{
+	border: 3px solid #000;
+	border-color: black;
+}
+#images{
+	border: 3px solid #000;
+	border-color: black;
+	border-bottom: 0px;
+	border-left: 0px
+}
+#texts{
+	border: 3px solid #000;
+	border-color: black;
+	border-bottom: 0px;
+	border-left: 0px
+	border-right: 0px;
+}
+#table2{
+	margin-top: 20px;
+}
+#bmw{
+	border-width: 2px;
+	border-color: white;
+	background-color: white;
+}
